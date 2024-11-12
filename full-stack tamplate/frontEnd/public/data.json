@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "username": "Miki",
+        "email": "miki@example.com",
+        "password": "1234",
+        "age": 25,
+        "img": "https://randomuser.me/api/portraits/men/1.jpg",
+        "isLogged": false
+    },
+    {
+        "id": "2",
+        "username": "Meni",
+        "email": "mani@example.com",
+        "password": "1234",
+        "age": 30,
+        "img": "https://randomuser.me/api/portraits/men/11.jpg",
+        "isLogged": false
+    },
+    {
+        "id": "3",
+        "username": "Alia",
+        "email": "Alia@example.com",
+        "password": "1234",
+        "age": 22,
+        "img": "https://randomuser.me/api/portraits/men/6.jpg",
+        "isLogged": false
+    },
+    {
+        "id": "4",
+        "username": "Gad",
+        "email": "Gad@example.com",
+        "password": "1234",
+        "age": 35,
+        "img": "https://randomuser.me/api/portraits/men/4.jpg",
+        "isLogged": false
+    }
+]
